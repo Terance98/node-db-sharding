@@ -3,7 +3,7 @@ const path = require("path");
 
 const files = [];
 const basename = path.basename(__filename);
-const configsFolder = path.join(__dirname, "db_configs1");
+const configsFolder = path.join(__dirname, "db_configs");
 
 //Getting all the config files dynamically
 try {
