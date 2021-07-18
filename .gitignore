@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+db_servers/db_configs
+db_servers/db_ssl_certificates
